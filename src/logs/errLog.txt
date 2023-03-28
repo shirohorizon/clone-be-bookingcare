@@ -1,0 +1,152 @@
+20230324	16:09:06	824e85fa-5ddf-4b54-8ce1-f622753436b0	SequelizeEagerLoadingError: Allcode is associated to User multiple times. To identify the correct association, you must use the 'as' keyword to specify the alias of the association you want to include.
+20230324	20:20:58	88f07449-e63d-40e8-879b-38e14a42eadb	TypeError: Cannot convert undefined or null to object
+20230324	20:22:28	5b795926-ed87-459e-a1d1-3febe9968ac9	TypeError: Cannot convert undefined or null to object
+20230324	20:23:56	b9bae638-9e05-44dd-aa8c-3d877a1cc848	TypeError: Cannot convert undefined or null to object
+20230324	20:28:10	0fef0ca6-0e7e-4ecd-a032-e3a63c5578ec	Error: haha
+20230324	20:50:17	2b5e93d0-2391-4831-9281-716227410339	Error: Invalid value { id: 'c32940dd-ebe7-49c4-8bd6-f565f1ba1f30' }
+20230324	20:50:54	f7ce4e33-0ff6-4569-85a2-3d584db514e5	Error: Invalid value { id: 'c32940dd-ebe7-49c4-8bd6-f565f1ba1f30' }
+20230324	21:18:47	4e7fdcc8-9711-419b-89ff-2fa05595f543	Error: Argument passed to findByPk is invalid: [object Object]
+20230324	21:19:31	c7c62c2b-3384-48f7-938a-7b3a73096c79	Error: Argument passed to findByPk is invalid: [object Object]
+20230325	14:47:23	f89ec296-5c6b-4787-a8f3-897362c4c4a5	TypeError: user.destroy is not a function
+20230325	15:09:37	8ba852a3-172f-458f-a962-a5504f84b729	Error: Not allowed by CORS
+20230325	15:11:33	58a5ace2-bc3d-433f-a507-dd485f95c7e1	Error: id don't exist!
+20230325	15:11:49	e3dd9bff-fd83-4832-9c1e-1f93603dd967	Error: Not allowed by CORS
+20230325	15:56:09	810e3167-1c36-4e1f-811b-e0d97dbd3efe	SequelizeDatabaseError: Unknown column 'genderData.name' in 'field list'
+20230325	15:57:29	d0cb6c97-2a39-4845-98cc-c6d42b3c9826	SequelizeDatabaseError: Unknown column 'genderData.name' in 'field list'
+20230326	20:00:50	ea8cd573-3257-4341-be05-f3260f1eb0f4	TypeError: (0 , _PwdUtil.compare) is not a function
+20230326	20:03:24	f3eb6da9-67f6-492e-8e52-b284ff3e123f	TypeError: (0 , _PwdUtil.compare) is not a function
+20230326	20:03:36	c9388527-0033-41dc-b22e-3330d4d02c63	Error: [object Object]
+20230326	20:04:11	2525bb54-de10-4dcb-a770-4a7f46c48578	Error: [object Object]
+20230326	20:05:03	f82e6206-5c11-4bc0-96ce-5aab9b49ed19	Error: [object Object]
+20230326	20:06:08	f134766c-e7e5-475b-ba1c-68e8fdb322cb	Error: [object Object]
+20230326	20:07:41	24fec3de-fb22-43ce-b4b7-7b9167d55eb9	TypeError: (0 , _PwdUtil.compare) is not a function
+20230326	20:11:00	26cb2996-5696-4332-b903-9303643fe746	ReferenceError: jwt is not defined
+20230326	20:12:42	1f653786-0669-4640-a376-5c41a3cc5af0	TypeError: (0 , _PwdUtil.compare) is not a function
+20230326	20:13:56	19373bba-edf4-4d18-b523-10b61c2383de	TypeError: (0 , _PwdUtil.compare) is not a function
+20230326	20:14:29	8541eb72-ecc3-4fdf-8ba6-554c81578ba6	TypeError: (0 , _PwdUtil.compare) is not a function
+20230326	20:15:37	e4a07a3f-cdb3-46f1-8b9a-23284680e61b	Error: secretOrPrivateKey must have a value
+20230326	20:18:37	43744a5e-dd23-4078-bfb0-bf882705bd4a	Error: secretOrPrivateKey must have a value
+20230326	20:19:06	fde905e3-55e6-4683-9b05-66352325117d	Error: secretOrPrivateKey must have a value
+20230326	20:19:44	dab1e4dc-4a91-406d-818f-8d956e09b1bd	Error: secretOrPrivateKey must have a value
+20230326	20:20:49	9f51bee6-9891-43b8-801f-fe0e8555581f	SequelizeDatabaseError: Unknown column 'user' in 'where clause'
+20230326	20:38:57	a380e2d9-7565-40bc-ac26-510c3211a1e3	Error: data and hash arguments required
+20230326	20:39:36	cc9184d2-c2b3-4e96-8071-479c17c3064e	Error: data and hash arguments required
+20230326	20:40:05	4b54e821-ba2f-4304-ab44-9c214d020db2	Error: data and hash arguments required
+20230327	14:50:21	77abe5b7-1bc0-42a4-a1ac-252645d335ba	Error: [object Object]
+20230327	14:59:57	a1b1877c-172f-4f4d-8d92-41a1d359fff6	Error: [object Object]
+20230327	15:10:34	40b48a0a-4a75-45c4-a179-99f3b0edfa50	Error: 404
+20230327	15:11:23	7da8a151-1610-41db-9a8e-f3aafc50ae03	Error: Username and password are required.
+20230327	15:12:42	0e78ed76-f91f-4185-86b8-857281bc601b	Error: Username and password are required.
+20230327	15:16:01	0591872b-5942-4bc0-ad64-5502218f0376	SequelizeEagerLoadingError: Allcode is associated to User multiple times. To identify the correct association, you must use the 'as' keyword to specify the alias of the association you want to include.
+20230327	15:17:47	f4ca5294-94d6-4854-8d55-23583b3ba16d	SequelizeEagerLoadingError: Allcode is associated to User multiple times. To identify the correct association, you must use the 'as' keyword to specify the alias of the association you want to include.
+20230327	15:19:05	ca36aa59-ebee-4892-a622-a71230857789	Error: [object Object]
+20230327	15:21:03	4d172df9-0bab-4ce4-875e-a052050ac74b	Error: 
+20230327	15:22:16	ca29d88e-a8ee-4358-868a-aa8c48aa78e1	Error: Unauthorized
+20230327	21:09:28	51bbfe36-4180-441b-9881-c2ce19bfdb9a	TypeError: undefined is not iterable (cannot read property Symbol(Symbol.iterator))
+20230327	21:12:19	a853e8fd-c2c6-4d5f-a2e0-41e0272c0027	TypeError: undefined is not iterable (cannot read property Symbol(Symbol.iterator))
+20230327	21:14:24	29a3a81d-9300-4df0-8423-ce1c8b0b2ee1	TypeError: undefined is not iterable (cannot read property Symbol(Symbol.iterator))
+20230327	21:15:39	23992413-4476-454d-a05d-db554bc5958c	TypeError: undefined is not iterable (cannot read property Symbol(Symbol.iterator))
+20230327	21:16:26	7cd33914-c59d-4b0f-87a1-18641ecaedff	TypeError: undefined is not iterable (cannot read property Symbol(Symbol.iterator))
+20230327	21:17:07	b3665079-0d18-4d39-9dc2-02f7f48c6da8	TypeError: undefined is not iterable (cannot read property Symbol(Symbol.iterator))
+20230327	21:18:49	e1603697-0eb2-43e9-be1b-8b5cfcc988ff	TypeError: undefined is not iterable (cannot read property Symbol(Symbol.iterator))
+20230327	21:19:58	3c01c12e-3e23-43d4-8264-a747f71cb69f	TypeError: foundUser.save is not a function
+20230327	21:21:38	910432ce-c23a-45fc-83f7-54ef5384ee4f	TypeError: foundUser.save is not a function
+20230327	21:23:22	be11ab4e-fb82-4ea3-88d5-907fa2e5d977	TypeError: foundUser.save is not a function
+20230327	21:24:19	7c0b467e-9b29-451f-8b01-9957c0af12dc	TypeError: foundUser.save is not a function
+20230327	21:26:16	c81766a0-1464-44fc-8393-163ed0eb8e5b	TypeError: foundUser.save is not a function
+20230327	21:27:14	5f7cb90f-7719-487b-be17-33418e7772ca	TypeError: foundUser.save is not a function
+20230327	21:28:36	791e763e-e845-4f01-b5ef-6f8c86ebe811	TypeError: foundUser.save is not a function
+20230327	21:29:12	fb0261f0-4e3e-4316-9242-bb3ddf76dc78	TypeError: foundUser.save is not a function
+20230327	21:30:18	e1989f7a-65bf-4c1d-8213-56ed672f4d58	TypeError: foundUser.save is not a function
+20230327	21:31:24	3a0e06cc-557a-4195-b49e-1d192584387c	TypeError: foundUser.save is not a function
+20230327	21:31:57	4966e203-281f-44ff-84f8-4f8c80d26852	TypeError: foundUser.save is not a function
+20230327	21:33:58	3a22db95-497b-4f17-a07e-8cf9d1bc01db	TypeError: foundUser.save is not a function
+20230327	21:34:59	2a0732cd-d44c-41af-a3a5-ef3890dcbf6c	TypeError: foundUser.save is not a function
+20230327	21:35:59	6f0686f1-2258-4b5f-8e94-3edc30703806	TypeError: foundUser.save is not a function
+20230327	21:36:31	dfaa717a-ab29-4bcb-a74b-418c7876485d	TypeError: foundUser.save is not a function
+20230327	21:37:57	777e3b57-49db-4a61-9f0e-8f4fdd027c99	TypeError: foundUser.save is not a function
+20230327	21:38:29	810bc185-3c86-4506-a84a-3b51b3cd83d7	TypeError: foundUser.save is not a function
+20230327	21:39:39	530da7f2-4d3c-4385-a3c2-c7121c3ffd8a	TypeError: foundUser.save is not a function
+20230327	21:40:19	714045b0-3ac7-4621-acf8-4f81715564fa	TypeError: foundUser.save is not a function
+20230327	21:44:00	f6ba016c-662f-4ec9-837a-71981d7b325f	ReferenceError: pk is not defined
+20230327	21:45:12	9620535e-d604-47d1-a5c1-23f89d54d9dc	ReferenceError: pk is not defined
+20230327	21:45:50	0c1a32c9-9c24-4f02-8a7f-e3319a07c456	ReferenceError: pk is not defined
+20230327	21:46:37	0db34047-3937-4d3b-b982-0b6b8fea1b5e	Error: email is exist!
+20230327	21:47:41	302e65ba-77a7-4a2a-b49f-e8c85cf46fb7	Error: email is exist!
+20230327	21:48:05	c4f76f3c-7fd0-48b5-bbff-5522cd3b5a24	Error: email is exist!
+20230327	21:48:34	38301751-9c4b-460e-843c-1ff147943c87	Error: email is exist!
+20230327	21:49:19	d76e4b77-93a4-453c-a642-f557f243e817	Error: email is exist!
+20230327	21:50:30	9182c114-1e9c-4716-89af-79cc93218ebf	Error: email is exist!
+20230327	21:51:34	0b50f889-b5b0-4971-8bd5-8d1295ac202e	Error: email is exist!
+20230327	21:52:09	597b0163-e700-4f2f-943b-cdfcd992e29c	Error: email is exist!
+20230327	21:55:13	d8ac1add-5b29-45b5-83a1-5de0d461b5b3	TypeError: object null is not iterable (cannot read property Symbol(Symbol.iterator))
+20230327	21:57:17	205c590d-39f0-4725-8e3a-a814fef719bd	TypeError: object null is not iterable (cannot read property Symbol(Symbol.iterator))
+20230327	21:58:03	127d0c02-d75c-4c39-8107-1dc859d63ef9	TypeError: object null is not iterable (cannot read property Symbol(Symbol.iterator))
+20230327	21:58:44	e6714e8a-d184-4879-b3ce-71012b8dfcbe	TypeError: object null is not iterable (cannot read property Symbol(Symbol.iterator))
+20230327	21:59:40	e4a9f87d-a8fc-4267-8d78-9f05f1b79c0c	TypeError: object null is not iterable (cannot read property Symbol(Symbol.iterator))
+20230327	22:00:27	1567f096-38e5-4600-826e-980b0cc0f82e	TypeError: foundUser.save is not a function
+20230327	22:00:55	bc7d0108-302c-461f-b614-e83ceb234df6	TypeError: foundUser.save is not a function
+20230327	22:27:14	7befb714-9a36-4810-968b-3374d123b4b3	TypeError: foundUser.save is not a function
+20230327	22:29:52	9607b952-625d-4ebd-a685-02ec637366b8	TypeError: foundUser.save is not a function
+20230327	22:30:42	f02b771d-a11e-4d34-a51f-d40a916967d8	TypeError: foundUser.save is not a function
+20230327	22:32:00	6d7f4b37-d342-42d3-824d-7e381f410d8a	TypeError: foundUser.save is not a function
+20230327	22:39:43	6f0eb8be-98dd-416f-bd2c-cb930f448093	TypeError: foundUser.save is not a function
+20230327	22:41:06	29779099-fbf1-4e19-9048-ff80ad968a57	TypeError: foundUser.save is not a function
+20230327	22:51:21	b5314dcc-7712-4380-b006-7984ca313055	TypeError: foundUser.save is not a function
+20230327	22:52:01	31c35103-2959-42d5-898e-307802f6d2d3	TypeError: foundUser.save is not a function
+20230327	22:56:45	a9f42244-d909-4f08-afc8-a88e36fadb8e	TypeError: foundUser.save is not a function
+20230327	22:57:42	bcf479ed-5489-4316-ba61-f2279fff6d88	TypeError: foundUser.save is not a function
+20230327	22:58:22	3b1e4dff-c359-4ef1-8cc1-023ac6ea0458	TypeError: foundUser.save is not a function
+20230327	22:59:04	084bb00c-3e30-4a96-ae77-f6a19f869be9	TypeError: foundUser.refreshToken is not a function
+20230327	22:59:56	0035ca2f-3640-4505-b9dd-a24e0a05d040	TypeError: foundUser.refreshToken is not a function
+20230327	23:00:23	8b3f6674-62a0-48de-a2c3-c928a96333fc	TypeError: foundUser.refreshToken is not a function
+20230327	23:01:13	9c7ed2f7-5f28-44db-a82c-bd0d2848b930	TypeError: result.get is not a function
+20230327	23:02:17	a7abb74a-b529-439a-b76c-db577267e616	TypeError: foundUser.refreshToken is not a function
+20230327	23:03:48	69b934f5-71ae-4763-8eb8-83adf54aaac2	TypeError: foundUser.refreshToken is not a function
+20230327	23:06:38	29b84205-b809-4388-b811-73c57ef428c0	TypeError: foundUser.token is not a function
+20230327	23:08:55	ba191f8b-4716-4358-b36b-7b0c94857fc9	TypeError: foundUser.token is not a function
+20230327	23:13:38	65dd56d3-5a7d-4e9a-8603-dcb50460564a	TypeError: foundUser.token is not a function
+20230327	23:14:09	74a2106e-aad2-4d98-9747-c9520ccade7e	TypeError: foundUser.token is not a function
+20230327	23:15:31	811f7b94-28df-4bfa-b579-8ff3bb040000	TypeError: foundUser.token is not a function
+20230327	23:16:01	c7a1aef1-2ea7-46c8-89ff-f691239daf63	TypeError: foundUser.token is not a function
+20230327	23:19:02	89e35b8c-273c-4e5b-a5e3-9eae8130e0bb	TypeError: foundUser.token is not a function
+20230327	23:19:27	5407de7a-4f69-4ed0-a16c-6c3d6be6383a	TypeError: foundUser.test is not a function
+20230327	23:19:59	e0bd1d73-1173-4e46-9add-a2b176e56d8c	TypeError: foundUser.test is not a function
+20230327	23:20:28	4b4fb963-dd39-44e5-b702-8d53c1b76feb	TypeError: foundUser.test is not a function
+20230327	23:22:38	baa2c3c9-6193-4026-8de3-224a3ce04e91	TypeError: foundUser.refreshToken is not a function
+20230327	23:24:35	573f4a0e-c042-49f7-9893-fe95fd8df4df	TypeError: foundUser.save is not a function
+20230327	23:26:06	c6f4ab41-1445-4bc1-bf8c-caf1c5af4372	TypeError: this.dataValues is not a function
+20230327	23:26:49	8a4f4b78-3d4a-41ac-96e0-3a666e1e6c78	Error: email is exist!
+20230327	23:27:41	a32f59d9-01ca-447e-ae75-4f09e899c625	TypeError: this.dataValues is not a function
+20230327	23:28:06	29002a0c-bea7-4bc7-8a50-9b27c5496857	TypeError: foundUser.save is not a function
+20230327	23:31:16	bb86273e-16f8-4346-9cd4-bd1f2d423383	TypeError: Cannot read property 'split' of null
+20230327	23:31:59	95025a34-3e5e-4353-85ac-d616ce2e457d	TypeError: Cannot read property 'split' of null
+20230327	23:32:31	466f6d7f-6f00-4673-af03-963dece6fce2	TypeError: Cannot read property 'split' of null
+20230327	23:33:44	b83cbe98-8c74-4d35-8d38-89d71bfb5023	TypeError: Cannot read property 'split' of null
+20230327	23:37:02	b7f2a6f8-8f69-4194-9e35-cb52a28ed729	TypeError: foundUser.save is not a function
+20230327	23:39:50	9647cb4d-fb85-4121-848c-a0277507b158	TypeError: Cannot read property 'jwt' of undefined
+20230327	23:41:28	e99ce58d-8b90-43c9-9d54-57d4b476a68d	TypeError: Cannot read property 'jwt' of undefined
+20230327	23:42:44	dedb3745-d561-403e-ad72-cb6f80de1cb8	TypeError: Cannot read property 'jwt' of undefined
+20230327	23:43:15	45921a4d-366a-4e95-aa35-fc50c2b972b3	TypeError: Cannot read property 'jwt' of undefined
+20230327	23:43:52	f1df1b49-b837-4133-a7e2-1e4e1e626161	TypeError: Cannot read property 'jwt' of undefined
+20230327	23:44:25	96179f2e-fc77-4eb9-808a-97ce6361820c	TypeError: Cannot read property 'jwt' of undefined
+20230328	18:13:41	ce886a08-a8c0-46eb-99af-dff981ef5374	SequelizeDatabaseError: Data too long for column 'refreshToken' at row 1
+20230328	18:14:25	439986a4-b6c9-43e2-965f-aadb3df20f62	SequelizeDatabaseError: Data too long for column 'refreshToken' at row 1
+20230328	18:15:27	b7c50c3a-6b9d-449e-863c-2317cfb6699e	SequelizeDatabaseError: Data too long for column 'refreshToken' at row 1
+20230328	18:17:47	d4356f51-5880-44f7-bb22-8b7809289c75	SequelizeDatabaseError: Data too long for column 'refreshToken' at row 1
+20230328	18:19:02	ca90a2a0-f28c-4fb2-8095-121a4d8565a8	SequelizeDatabaseError: Data too long for column 'refreshToken' at row 1
+20230328	18:20:17	4b2839a2-5a0f-4547-b728-d5cfed48c900	SequelizeDatabaseError: Data too long for column 'refreshToken' at row 1
+20230328	18:21:53	ea049d8f-7f94-47e2-88f5-edc2a77ad3db	SequelizeDatabaseError: Data too long for column 'refreshToken' at row 1
+20230328	19:07:18	4a4054fc-d849-477e-ac73-b3bada1c8e7f	SequelizeDatabaseError: Data too long for column 'refreshToken' at row 1
+20230328	19:07:55	517201d6-a356-4645-9c67-08c26f496b87	SequelizeDatabaseError: Data too long for column 'refreshToken' at row 1
+20230328	19:09:44	fd2b86b0-b895-4a41-8dd8-909ea484c9db	SequelizeDatabaseError: Data too long for column 'refreshToken' at row 1
+20230328	19:10:22	abe4f129-804d-4ced-bc3b-c743574c3660	SequelizeDatabaseError: Data too long for column 'refreshToken' at row 1
+20230328	19:13:06	cb26582d-874c-496d-ac03-6ada4a7755c5	SequelizeDatabaseError: Data too long for column 'refreshToken' at row 1
+20230328	19:14:20	2d017484-103a-448f-9857-2ea2d23720c2	SequelizeDatabaseError: Data too long for column 'refreshToken' at row 1
+20230328	19:17:42	00a57ff7-bce8-4f29-9218-a20c3c998bbd	Error: email is exist!
+20230328	19:18:24	7b04317b-1cdd-4ff6-a0d0-3aa52c57db33	TypeError: Cannot read property 'split' of null
+20230328	19:19:10	563e8fd8-be78-4cc5-bbc3-f1374a693b33	TypeError: Cannot read property 'split' of null
+20230328	19:20:54	8b400c81-3b33-49f5-95e8-983f61f668b7	TypeError: Cannot read property 'split' of null
+20230328	19:22:14	b2daafb8-2656-49b8-a87f-a0023f1bae7e	TypeError: Cannot read property 'split' of null
+20230328	19:23:03	f0921ecc-1a40-48c8-8fa8-fe10e80127fb	TypeError: Cannot read property 'split' of null
+20230328	19:23:39	3aa01a41-41b7-4bf1-8f31-afa2f1e7c828	TypeError: Cannot read property 'split' of null

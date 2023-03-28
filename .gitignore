@@ -1,0 +1,10 @@
+node_modules
+.editorconfig
+.eslintrc
+.prettierrc
+.env
+.babelrc
+.sequelizerc
+README.md
+package.json
+yarn.lock
